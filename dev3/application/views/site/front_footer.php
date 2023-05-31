@@ -133,7 +133,6 @@ $year0dataCmlString .= ']';
       type: 'post',
       success: function (response) {
         $('#dashboard-seventh').html(response);
-        $("div.wrapper").css("display", "block");
       }
     });
 
