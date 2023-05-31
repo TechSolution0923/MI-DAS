@@ -1,0 +1,27 @@
+ ;Default
+0001;Purchasing
+0002;Ext. Sales
+0003;Stores
+0004;Accounts
+0005;Int Sales
+0006;Contract
+0007;AGREED
+0008;GFR
+0009;Supplier
+0010;Courier
+0011;Faulty
+0012;Do not use
+0013;Admin
+0015;Customer
+0016;Technical Dept
+011;HP Rep error
+012;UK Agent
+013;Woodland
+014;Bad Debt
+1;Area 1
+2;Area 2
+3E;Area 3E
+3S;Area 3S
+HS;House Accounts
+area;area
+sys;system

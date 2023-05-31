@@ -1,0 +1,32 @@
+ ; 
+A1010;Tiger Eco
+A1015;High Speed Cub
+A1020;High Speed Puma
+A1510;Specification High Speed
+B1010;Programmable Thermal  Radiator
+B1015;Smart Radiator
+B1020;Low Level Radiators
+B1510;Panel Radiator
+B1515;Smart Panel Radiator
+B2010;Towel Radiator
+B2015;Smart Towel Radiators
+C1010;Underfloor Heating Matts
+C1510;UFH Thermostats
+D1010;Ventilation
+D1510;HRU
+D2010;Ducting
+E1010;Undersink WH
+E1015;Instant Undersink WH
+E1510;Water Boilers
+E2010;ZIP
+F1010;Outdoor Heating
+F1510;Indoor Radiant heating
+G1010;Air curtains
+G1510;Overdoor heater
+H1010;Bathroom Fan Heaters
+H1510;Mirror Demister
+H2010;Misc. Heaters
+I1010;Spares
+J1010;Misc.
+J4290;Convector Heaters
+Z1010;Non Active Parts

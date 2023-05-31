@@ -1,0 +1,4 @@
+MI-DAS user id,"PAC code – could be PAC1, PAC2, PAC3 or PAC4",Number (1-4) that says which level the PAC code is,Year and month,Sales target
+10,P,1,201810,1000000
+10,P,1,201812,200000
+10,P,1,201811,456666

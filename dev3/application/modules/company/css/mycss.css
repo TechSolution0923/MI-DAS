@@ -1,0 +1,138 @@
+.top5 { margin-top:5px; }
+.top7 { margin-top:7px; }
+.top10 { margin-top:10px; }
+.top15 { margin-top:15px; }
+.top17 { margin-top:17px; }
+.top30 { margin-top:30px; }
+
+.bottom5 { margin-bottom:5px; }
+.bottom7 { margin-bottom:7px; }
+.bottom10 { margin-bottom:10px; }
+.bottom15 { margin-bottom:15px; }
+.bottom17 { margin-bottom:17px; }
+.bottom30 { margin-bottom:30px; }
+.rep-code label{display:block;}
+.small-text {
+	width: 17.9%;
+    display: inline-block;
+    margin: 0px 1%;
+}input.form-control.small-text.frst {
+    margin-left: 0px;
+}
+
+input.form-control.small-text.lst {
+    margin-right: 0px;
+}
+
+.no-border {
+	border:0px;
+}
+
+.transform-link {
+	float: left;
+    border: 0;
+    color: #0088cc;
+    background: transparent;
+	cursor:pointer;
+}
+
+.ulink, .flink, .elink {
+	float: left;
+    border: 0;
+    color: #0088cc;
+    background: transparent;
+	cursor:pointer;
+}
+
+.error {
+	margin: 2px;
+    padding: 2px;
+    text-align: center;
+    margin-top: 5px;
+}
+
+.overlay {
+	width: 100%;
+    height: 100%;
+    background-color: rgba(0,0,0,0.50);
+    position: fixed;
+    z-index: 1030;
+    top: 0;
+	display:none;
+}
+
+.hidden-add-target-form {
+	width: 50%;
+    height:190px;
+    background-color: #fff;
+    position: fixed;
+    z-index: 1031;
+    top: 30%;
+    left: 25%;
+	display:none;
+}
+
+.width-50 {
+	width:60px;
+	margin-right:5px;
+	margin-left:5px;
+	height: 29px;
+}
+
+.height-29 {
+	height: 29px;
+}
+
+/* CSS for the file upload button */
+.fileUpload {
+    position: relative;
+    overflow: hidden;
+    margin: 10px;
+	background-color: #f1f1f1;
+    border-color: #e5e5e5;
+    color: #000;
+	border: 1px solid transparent;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 14px;
+    padding: 6px 12px;
+    text-align: center;
+    vertical-align: middle;
+	margin:10px auto 0;
+	width:130px;
+}
+.fileUpload input.upload {
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin: 0;
+    padding: 0;
+    font-size: 20px;
+    cursor: pointer;
+    opacity: 0;
+    filter: alpha(opacity=0);
+}
+
+/* END CSS for the file upload button */
+.italicize {
+	color: #D1D1D1;
+	font-style: italic;
+}
+
+.ajax-file-upload {
+	position: relative;
+    overflow: hidden;
+    margin: 10px;
+	background-color: #f1f1f1;
+    border-color: #e5e5e5;
+    color: #000;
+	border: 1px solid transparent;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 14px;
+    padding: 6px 12px;
+    text-align: center;
+    vertical-align: middle;
+	margin:10px auto 0;
+	width:130px; 
+  }

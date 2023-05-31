@@ -1,0 +1,33 @@
+.border-target {
+	border-bottom: 2px solid;
+}
+.border-header {
+	border-bottom: 2px solid;
+	border-top: 2px solid;
+}
+
+.bg-red-full {
+	background: #dd4b39;
+}
+.bg-yellow-full {
+	background: #f39c12;
+}
+.bg-green-full {
+	background: #00a65a;
+}
+
+.fa.red-arrow {
+	margin-left: 10px;
+	font-size: 18px;
+	color: #dd4b39;
+}
+.fa.yellow-arrow {
+	margin-left: 10px;
+	font-size: 18px;
+	color: #f39c12;
+}
+.fa.green-arrow {
+	margin-left: 10px;
+	font-size: 18px;
+	color: #00a65a;
+}
